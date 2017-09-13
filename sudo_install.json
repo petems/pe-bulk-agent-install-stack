@@ -1,0 +1,5 @@
+{
+  "username": "vagrant",
+  "sudo_password": "super-secret-password",
+  "master" : "pe-201647-master"
+}
